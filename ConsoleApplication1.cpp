@@ -1,5 +1,3 @@
-// Class       : 18540
-// program     : Babbage's Cabbage's, Part 4.
 // Autor       : Mohammad Ayub Hanif Saleh.
 // Date        : Fall 2020
 // Description : This is a program that can compute an employee's weekly
